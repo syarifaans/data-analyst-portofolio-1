@@ -1,5 +1,17 @@
+# Data manipulation
 pandas
 numpy
+
+# Visualization
 matplotlib
 seaborn
+plotly
+
+# Machine Learning / Modeling
 scikit-learn
+
+# Dashboard / App (opsional, kalau mau bikin tampilan interaktif)
+streamlit
+
+# Jupyter Notebook (biar bisa run .ipynb di laptop)
+jupyter
